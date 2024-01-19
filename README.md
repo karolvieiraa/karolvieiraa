@@ -1,6 +1,6 @@
 ### Olá Mundo! Me chamo Karoliny ✨
 
-- 📚 Curso Análise e Desenvolvimento de Sistemas (3/5), na Faculdade Municipal de Palhoça.
+- 📚 Curso Análise e Desenvolvimento de Sistemas 
 - 💻 Sou estagiária Tester/QA na Essentia Group!!!
 - 💜 Amo tecnologia, gatos, ficção científica e astronomia.
 <br>

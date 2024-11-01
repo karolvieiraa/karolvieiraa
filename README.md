@@ -1,7 +1,7 @@
 ### Olá Mundo! Me chamo Karoliny ✨
 
-- 📚 Curso Análise e Desenvolvimento de Sistemas 
-- 💻 Sou estagiária Tester/QA na Essentia Group!!!
+- 📚 Curso Análise e Desenvolvimento de Sistemas .
+- 💻 Sou Tester/QA na Essentia Group.
 - 💜 Amo tecnologia, gatos, ficção científica e astronomia.
 <br>
 
